@@ -1,3 +1,23 @@
+
+## Setup Instructions:
+
+- open the terminal
+
+- clone the repo using `git clone https://github.com/MdSalman2022/TinyFaceNFT.git`
+
+- cd into the project directory using `cd TINYFACE-NFT-CLIENT`
+
+- run `npm install` to install all the dependencies
+
+- run `npm start` to start the development server
+
+- open `http://localhost:3000` to view the project in the browser
+
+
+## TinyFaceNFT
+Site link: [https://tinyfacenft.web.app/](https://tinyfacenft.web.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
